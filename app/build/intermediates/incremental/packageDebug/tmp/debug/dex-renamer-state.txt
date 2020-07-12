@@ -1,4 +1,4 @@
-#Mon Jun 08 03:07:50 ICT 2020
-base.0=C\:\\Users\\user\\AndroidStudioProjects\\Info-COVID-19\\CoronaInfo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Sun Jul 12 14:33:31 WIB 2020
+base.0=/home/achmad/AndroidStudioProjects/covid-19/app/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -14,7 +14,7 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ * Created by Achmad sekhudin
  */
 
 public class RingkasanViewModel extends ViewModel {

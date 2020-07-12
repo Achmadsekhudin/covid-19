@@ -22,7 +22,7 @@ import com.azhar.coronainfo.viewmodel.RiwayatViewModel;
 import java.util.ArrayList;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ * Created by ACHMAD SEKHUDIN
  */
 
 public class RiwayatFragment extends Fragment {

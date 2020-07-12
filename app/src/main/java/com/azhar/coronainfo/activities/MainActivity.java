@@ -20,7 +20,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ * Created by achmad sekhudin for UAS PEMOGRAMAN ONLINE.
  */
 
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {

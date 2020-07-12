@@ -15,7 +15,7 @@ import com.azhar.coronainfo.model.RiwayatModel;
 import java.util.ArrayList;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ * Created by ACHMAD SEKHUDIN
  */
 
 public class HistoryListAdapter extends RecyclerView.Adapter<HistoryListAdapter.ViewHolder> {

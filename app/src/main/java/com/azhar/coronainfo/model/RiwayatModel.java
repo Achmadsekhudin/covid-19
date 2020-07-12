@@ -3,7 +3,7 @@ package com.azhar.coronainfo.model;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ *
  */
 
 public class RiwayatModel {

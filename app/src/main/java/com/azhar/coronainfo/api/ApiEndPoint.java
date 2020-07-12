@@ -11,7 +11,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ * Created by ACHMAD SEKHUDIN
  */
 
 public interface ApiEndPoint {

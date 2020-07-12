@@ -28,7 +28,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ * Created by AzCHMAD SEKHUDIN
  */
 
 public class RingkasanFragment extends Fragment {

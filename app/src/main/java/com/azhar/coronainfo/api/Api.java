@@ -1,7 +1,7 @@
 package com.azhar.coronainfo.api;
 
 /**
- * Created by Azhar Rivaldi on 20/03/2020.
+ * Created by ACHMAD SEKHUDIN
  */
 
 public class Api {
